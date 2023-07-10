@@ -1,5 +1,5 @@
-We wish to organized the news article to structured storyline.
-We do a lot of tasks about mining the semantic of raw text, and try to figure out what relations between this sentences.
+We'd like to organize the news article to structured storyline.
+We do a lot of tasks about mining the semantic of raw text and try to figure out what relations between these sentences.
 Here are same of examples:
 | id | topic | task | source | url |
 |----|-------|------|--------|-----|
